@@ -1,0 +1,9 @@
+include data/*.allx
+include data/*.ally
+include data/*.graph
+include data/*.index
+include data/*.tx
+include data/*.ty
+include data/*.x
+include data/*.y
+include data/*.dump
