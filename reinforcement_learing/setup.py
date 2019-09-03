@@ -5,7 +5,6 @@ setup(
     name="rlutils",
     version="0.1",
     packages=[
-        "rlutils",
+        "rlutils"
     ]
-
 )
