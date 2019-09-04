@@ -4,7 +4,7 @@ This is the official repository for Machine Learning Summer School 2019, which i
 This repository will contain all of the materials needed for MLSS tutorials for the second week (02.09 - 06.09). 
 
 ## The list of the current tutorials published (will be updated with time):
-* DAY-6 (02.09): Alexnader Notchenko, Nicolò Cesa-Bianchi - Graph Neural Networks: https://github.com/mlss-skoltech/tutorials_week2/tree/master/graph_neural_networks
+* DAY-6 (02.09): Alexnader Notchenko, Michael Bronstein- Graph Neural Networks: https://github.com/mlss-skoltech/tutorials_week2/tree/master/graph_neural_networks
 * DAY-6 (02.09): Alexander Korotin, Matus Jan Telgarsky - Deep Learning Theory: https://github.com/mlss-skoltech/tutorials_week2/tree/master/deep_learning_theory
 
 
