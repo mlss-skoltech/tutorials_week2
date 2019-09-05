@@ -6,6 +6,14 @@ This repository will contain all of the materials needed for MLSS tutorials for 
 ## The list of the current tutorials published (will be updated with time):
 * DAY-6 (02.09): Alexnader Notchenko, Michael Bronstein- Graph Neural Networks: https://github.com/mlss-skoltech/tutorials_week2/tree/master/graph_neural_networks
 * DAY-6 (02.09): Alexander Korotin, Matus Jan Telgarsky - Deep Learning Theory: https://github.com/mlss-skoltech/tutorials_week2/tree/master/deep_learning_theory
+* DAY-7 (03.09): Nina Mazyavkina, Shimon Whiteson - Reinforcement Learning: https://github.com/mlss-skoltech/tutorials_week2/tree/master/reinforcement_learning
+* DAY-7 (03.09): Justin Solomon - Geometric Techniques in ML: https://github.com/mlss-skoltech/tutorials_week2/tree/master/geometric_techniques_in_ML2
+* DAY-8 (04.09): Rodrigo Rivera Castro, Dmitry Oganesyan, Alexander Korotin, Ulrich Bauer - Topological Data Analysis: https://github.com/mlss-skoltech/tutorials_week2/tree/master/topological_data_analysis
+* DAY-8 (04.09): Alexey Artemov, Michael Bronstein - Graph Neural Networks: https://github.com/mlss-skoltech/tutorials_week2/tree/master/graph_neural_networks2
+* DAY-9 (05.09): Rodrigo Rivera Castro, Dmitry Oganesyan, Alexander Korotin, Ulrich Bauer - Topological Data Analysis: https://github.com/mlss-skoltech/tutorials_week2/tree/master/topological_data_analysis
+* DAY-9 (05.09): Nina Mazyavkina, Shimon Whiteson - Reinforcement Learning: https://github.com/mlss-skoltech/tutorials_week2/tree/master/reinforcement_learning2
+
+
 
 
 # Running the tutorials on Google Colaboratory:
