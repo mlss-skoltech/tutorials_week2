@@ -12,6 +12,8 @@ This repository will contain all of the materials needed for MLSS tutorials for 
 * DAY-8 (04.09): Alexey Artemov, Michael Bronstein - Graph Neural Networks: https://github.com/mlss-skoltech/tutorials_week2/tree/master/graph_neural_networks2
 * DAY-9 (05.09): Rodrigo Rivera Castro, Dmitry Oganesyan, Alexander Korotin, Ulrich Bauer - Topological Data Analysis: https://github.com/mlss-skoltech/tutorials_week2/tree/master/topological_data_analysis
 * DAY-9 (05.09): Nina Mazyavkina, Shimon Whiteson - Reinforcement Learning: https://github.com/mlss-skoltech/tutorials_week2/tree/master/reinforcement_learning2
+* DAY-10 (05.09): Evgeny Egorov, Mark Girolami - Probabilistic Numerics: https://github.com/mlss-skoltech/tutorials_week2/tree/master/probabilistic_numerics
+* DAY-10 (05.09): Ilia Trofimov, Shimon Whiteson - Reinforcement Learning: https://github.com/mlss-skoltech/tutorials_week2/tree/master/reinforcement_learning3
 
 
 
